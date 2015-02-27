@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mjonze/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/mjonze/AndroidStudioProjects/Launch2015Android/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-72b2fef08503192ea1ac096154f02884cb2d2fc3.jar" />
+    </item>
+    <item
+        jar="/Users/mjonze/AndroidStudioProjects/Launch2015Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/mjonze/AndroidStudioProjects/Launch2015Android/app/build/intermediates/pre-dexed/debug/classes-606a7260fc63f3912c977cb3a4eba14d10054c5e.jar" />
+    </item>
+    <item
+        jar="/Users/mjonze/AndroidStudioProjects/Launch2015Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/mjonze/AndroidStudioProjects/Launch2015Android/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-01bba452d937a4f22af726049ff232e4f72d764a.jar" />
+    </item>
+    <item
+        jar="/Users/mjonze/AndroidStudioProjects/Launch2015Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/mjonze/AndroidStudioProjects/Launch2015Android/app/build/intermediates/pre-dexed/debug/classes-fac443e3d75a0cee5f307096fc8a7b028e2ae5ff.jar" />
+    </item>
+    <item
+        jar="/Users/mjonze/AndroidStudioProjects/Launch2015Android/app/libs/Parse-1.6.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2a812174191af5a4513a873602a765b0171f252c">
+        <dex dex="/Users/mjonze/AndroidStudioProjects/Launch2015Android/app/build/intermediates/pre-dexed/debug/Parse-1.6.0-af8d4cc3de4c650f093bac10ac699983de0be7db.jar" />
+    </item>
+
+</items>
